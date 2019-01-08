@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/SonyaMoisset/bookvue#readme",
   "dependencies": {
-    "firebase": "^2.4.2",
+    "firebase": "^5.0.0",
     "jquery": "^2.2.3",
     "vue": "^1.0.21"
   },
