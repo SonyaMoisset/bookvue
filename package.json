@@ -21,7 +21,7 @@
   "dependencies": {
     "firebase": "^5.0.0",
     "jquery": "^2.2.3",
-    "vue": "^1.0.21"
+    "vue": "^2.0.0"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
